@@ -40,3 +40,4 @@ In this project, we perform the following analysis:
     * DecisionTreeClassifier
     * RandomForestClassifier
     * LogisticRegression
+
